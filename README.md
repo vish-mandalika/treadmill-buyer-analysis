@@ -1,6 +1,6 @@
 # Aerofit Treadmill Buyer Analysis
 
-This is a self-guided project for learning. improving and showcasing my data analytics skills.
+This is a self-guided project for learning, improving and showcasing my data analytics skills.
 This project was completed following the instructions on this repo: https://github.com/J-Data-Guy/Aerofit_Project/tree/main
 
 ## Objective
