@@ -24,4 +24,4 @@ The company collected data on individuals who purchased a treadmill from the Aer
     Miles - the average number of miles the customer expects to walk/run each week
 
 ## Approach
-I wrote some initial SQL queries to practice my skills and to get an understanding of what the data looks like. Following this I used Python for some more rigorous analytics. My EDA thought process, insights and recommendations to Aerofit are all included within the ([Python notebook](https://github.com/vish-mandalika/treadmill-buyer-analysis/blob/main/aerofit_treadmill_buyer_analysis.ipynb)).
+I wrote some initial SQL queries to practice my skills and to get an understanding of what the data looks like. Following this I used Python for some more rigorous analytics. My EDA thought process, insights and recommendations to Aerofit are all included within the [Python notebook](https://github.com/vish-mandalika/treadmill-buyer-analysis/blob/main/aerofit_treadmill_buyer_analysis.ipynb).
