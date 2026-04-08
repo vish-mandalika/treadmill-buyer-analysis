@@ -22,3 +22,6 @@ The company collected data on individuals who purchased a treadmill from the Aer
     Fitness - self-rated fitness on a 1-5 scale, where 1 is the poor shape and 5 is the excellent shape
     Income - annual income in US dollars
     Miles - the average number of miles the customer expects to walk/run each week
+
+## Approach
+My EDA thought process, insights and recommendations to Aerofit are all included within the Python notebook (.ipynb file).
