@@ -34,7 +34,7 @@ I wrote some initial [SQL queries](https://github.com/vish-mandalika/treadmill-b
   weak product differentiation
 - Fitness level and usage intent are the strongest predictors of 
   product choice; marital status has no predictive value
-- Age does not predict usage intensity — targeting should focus on 
+- Age does not predict usage intensity. Targeting should focus on 
   fitness behavior, not demographics
 
 ## Tools Used
