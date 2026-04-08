@@ -1,4 +1,4 @@
-# Aerofit Treadmill Buyer Analysis
+# AeroFit Treadmill Buyer Analysis
 
 This is a self-guided project for learning, improving and showcasing my data analytics skills.
 This project was completed following the instructions on this repo: https://github.com/J-Data-Guy/Aerofit_Project/tree/main
@@ -25,3 +25,17 @@ The company collected data on individuals who purchased a treadmill from the Aer
 
 ## Approach
 I wrote some initial [SQL queries](https://github.com/vish-mandalika/treadmill-buyer-analysis/blob/main/aerofit_sql.sql) to practice my skills and to get an understanding of what the data looks like. Following this I used Python for some more rigorous analytics. My EDA thought process, insights and recommendations to Aerofit are all included within the [Python notebook](https://github.com/vish-mandalika/treadmill-buyer-analysis/blob/main/aerofit_treadmill_buyer_analysis.ipynb).
+
+## Key Findings
+- KP781 (premium) buyers are a distinct "serious runner" segment: 
+  82.5% male, high fitness (level 4-5), high income ($75k+), 
+  planning 4-6 sessions/week
+- KP281 and KP481 buyer profiles overlap significantly, suggesting 
+  weak product differentiation
+- Fitness level and usage intent are the strongest predictors of 
+  product choice; marital status has no predictive value
+- Age does not predict usage intensity. Targeting should focus on 
+  fitness behavior, not demographics
+
+## Tools Used
+Python (pandas, seaborn, matplotlib), MySQL
